@@ -24,3 +24,5 @@ Anything, really:
 Because [cute robot gascan](https://azurlane.koumakan.jp/Gascogne) wants to be the very best, [but never was](https://en.wikipedia.org/wiki/Richelieu-class_battleship#Clemenceau_and_Gascogne)
 
 (by the way, [Frank](https://twitter.com/karsten_frank/) you are my hero)
+
+(All product names, logos, and brands, game mechanics, card names, general references, etc. contained within are property of their respective owners. All company, product, service names, game mechanics, card names, etc. used in this code are for identification purposes only. Use and reference of these properties does not imply endorsement.)
