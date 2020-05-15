@@ -21,6 +21,6 @@ Anything, really:
 * LALR support to represent and implement game logic in filthy casuals-readable format
 
 ## but why "gascan"
-Because [cute robot gascan](https://azurlane.koumakan.jp/Gascogne) wants to be the best, [but never was](https://en.wikipedia.org/wiki/Richelieu-class_battleship#Clemenceau_and_Gascogne)
+Because [cute robot gascan](https://azurlane.koumakan.jp/Gascogne) wants to be the very best, [but never was](https://en.wikipedia.org/wiki/Richelieu-class_battleship#Clemenceau_and_Gascogne)
 
 (by the way, [Frank](https://twitter.com/karsten_frank/) you are my hero)
